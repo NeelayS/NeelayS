@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 😄 !
 
-- 🔭 I’m currently working on Spiking Neural Networks (SNNs)
+- 🔭 I’m currently working on Spiking Neural Networks (SNNs) and Understanding Social Interaction
 - 🌱 I’m currently learning Reinforcement Learning
 - 📫 How to reach me: Email me!
 - 😄 Pronouns: He/him/his
