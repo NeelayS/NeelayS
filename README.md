@@ -8,6 +8,7 @@
 - How to reach me: Email me !
 - Do check out **[KD-Lib](https://github.com/SforAiDl/KD_Lib)** :)
 
+
 ### Connect with me:
 
 [<img align="left" alt="NeelayS.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -29,12 +30,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /> 
 
----
+<br> 
 
 [website]: https://neelays.github.io/
 [twitter]: https://twitter.com/NeelayShah8
 [linkedin]: https://www.linkedin.com/in/neelays/
 
+<br>
 
  [![Neelay's github stats](https://github-readme-stats.vercel.app/api?username=NeelayS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
