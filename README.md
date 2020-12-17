@@ -1,7 +1,5 @@
 ### Hello, I'm [Neelay Shah][website] . Happy you're here 😄!
 
-![Visitor Count](https://profile-counter.glitch.me/NeelayS/count.svg)
-
 ## I'm a pre-final year undergraduate student at [BITS Pilani Goa](https://www.bits-pilani.ac.in/Goa/)
 - I’m currently working on Social Perception and Visual Attention
 - I’m looking to collaborate with other researchers 
@@ -45,6 +43,7 @@
 <!--
 **NeelayS/NeelayS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Visitor Count](https://profile-counter.glitch.me/NeelayS/count.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
