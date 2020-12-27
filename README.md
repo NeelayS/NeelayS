@@ -4,7 +4,6 @@
 - I’m currently working on Social Perception and Visual Attention
 - I’m looking to collaborate with other researchers 
 - How to reach me: Email me !
-- Do check out **[KD-Lib](https://github.com/SforAiDl/KD_Lib)** :)
 
 
 ### Connect with me:
