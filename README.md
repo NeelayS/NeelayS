@@ -2,8 +2,7 @@
 
 ## I'm a pre-final year undergraduate student at [BITS Pilani Goa](https://www.bits-pilani.ac.in/Goa/)
 
-- I’m currently working on Visual Social Cognition
-- How to reach me: Email me !
+- How to reach me: [Email](mailto:shahnh19@gmail.com) me!
 
 
 ### Connect with me:
