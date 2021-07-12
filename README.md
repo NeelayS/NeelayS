@@ -1,6 +1,6 @@
 ### Hello, I'm [Neelay Shah][website] . Happy you're here 😄!
 
-## I'm a pre-final year undergraduate student at [BITS Pilani Goa](https://www.bits-pilani.ac.in/Goa/)
+## I'm a final year undergraduate student at [BITS Pilani Goa](https://www.bits-pilani.ac.in/Goa/)
 
 - How to reach me: [Email](mailto:shahnh19@gmail.com) me!
 
