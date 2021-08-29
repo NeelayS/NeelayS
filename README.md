@@ -11,7 +11,7 @@
 [<img align="left" alt="NeelayShah8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="neelays | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<!-- <br />
 
 ### Languages and Tools:
 
@@ -26,13 +26,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /> 
 
-<br> 
+<br>  -->
 
 [website]: https://neelays.github.io/
 [twitter]: https://twitter.com/NeelayShah8
 [linkedin]: https://www.linkedin.com/in/neelays/
 
-<br>
+<!-- <br> -->
 
 
  
