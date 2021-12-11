@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Neelay Shah</h1>
-<h3 align="center">I am a final year undergraduate student at BITS Goa</h3>
+<h3 align="center">I am a final year undergraduate student at BITS Pilani, Goa Campus</h3>
 
 - I'm currently looking for opportunities to work as a research engineer!
 - How to reach me: **shahnh19@gmail.com**
