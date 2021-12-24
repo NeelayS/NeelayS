@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Neelay Shah</h1>
-<h3 align="center">I am a final year undergraduate student at BITS Pilani, Goa Campus</h3>
+<h3 align="center">I am a final year undergraduate student at <a href="https://www.bits-pilani.ac.in/goa/">BITS Pilani, Goa, India</a>.</h3>
 
 - I like working on developing open-source machine learning tools, check out [EzFlow](https://github.com/neu-vig/ezflow), [KD-Lib](https://github.com/SforAiDl/KD_Lib), and [VFormer](https://github.com/SforAiDl/vformer)!
 - I'm currently looking for opportunities to work as a machine learning (research) engineer.
