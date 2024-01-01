@@ -1,7 +1,6 @@
-<h1 align="center">Hello, I'm Neelay Shah</h1>
+<h1 align="center">Hello, I'm Neelay Shah!</h1>
 <!-- <h3 align="center">I work as a research engineer at the <a href="https://ps.is.mpg.de/">Max Planck Institute for Intelligent Systems</a> in Tübingen, Germany.</h3> -->
 
-- I work as a research engineer at the <a href="https://ps.is.mpg.de/">Max Planck Institute for Intelligent Systems</a>.
 - I like developing open-source machine learning tools; check out [EzFlow](https://github.com/neu-vig/ezflow), [KD-Lib](https://github.com/SforAiDl/KD_Lib), [VFormer](https://github.com/SforAiDl/vformer), and [EventAug](https://github.com/NeelayS/event_aug)!
 - How to reach me: **shahnh19@gmail.com**
 
